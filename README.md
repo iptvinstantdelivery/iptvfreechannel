@@ -897,7 +897,7 @@ No video files are stored in this repository. The repository simply contains use
 
 ## License
 
-<a href="https://novaiptv.org" rel="ugc">iptv subscription</a>|
-<a href="https://novaiptv.org" rel="ugc">iptv instant delivery</a>|
-<a href="https://novaiptv.org" rel="ugc">iptv premium</a>|
-<a href="https://novaiptv.org" rel="ugc">iptv europe</a>| <a href="https://novaiptv.org" rel="ugc">iptv deals</a>|<a href="https://novaiptv.org" rel="ugc">iptv firestick</a>|
+<a href="https://novaiptv.org" rel="follow">iptv subscription</a>|
+<a href="https://novaiptv.org" rel="follow">iptv instant delivery</a>|
+<a href="https://novaiptv.org" rel="follow">iptv premium</a>|
+<a href="https://novaiptv.org" rel="follow">iptv europe</a>| <a href="https://novaiptv.org" rel="follow">iptv deals</a>|<a href="https://novaiptv.org" rel="follow">iptv firestick</a>|
