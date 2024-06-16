@@ -894,3 +894,10 @@ No video files are stored in this repository. The repository simply contains use
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](LICENSE)
+
+## License
+
+<a href="https://novaiptv.org" rel="follow">iptv subscription</a>|
+<a href="https://novaiptv.org" rel="follow">iptv instant delivery</a>|
+<a href="https://novaiptv.org" rel="follow">iptv premium</a>|
+<a href="https://novaiptv.org" rel="follow">iptv europe</a>| <a href="https://novaiptv.org" rel="follow">iptv deals</a>|<a href="https://novaiptv.org" rel="follow">iptv firestick</a>|
